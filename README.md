@@ -10,7 +10,7 @@
 - **Môn học:** Phát triển ứng dụng Web mã nguồn mở.
 - **Nhóm thực hiện:** Nguyễn Bùi Thiếu Gia_Hồ Tuấn Hưng_Nguyễn Thành Triệu.
 
-## 🛠️ Technologies Used
+## 🛠️ Công nghệ sử dụng
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -229,7 +229,7 @@ docker compose ps
 Thực hiện cài đặt Composer theo cấu hình Docker của dự án.
 
 ```bash
-[Nhập lệnh Composer]
+
 ```
 
 ### Bước 6: Khởi tạo cơ sở dữ liệu
