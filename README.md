@@ -106,7 +106,7 @@ Ngoài các nhiệm vụ được phân công riêng, các thành viên cùng ph
 
 ### 3.5. Bảng tổng hợp phân công
 
-| Nội dung công việc | Thành viên 1 | Thành viên 2 | Thành viên 3 |
+| Nội dung công việc | Nguyễn Bùi Thiếu Gia | Hồ Tuấn Hưng | Nguyễn Thành Triệu |
 |---|:---:|:---:|:---:|
 | Phân tích yêu cầu | ✓ | ✓ | ✓ |
 | Thiết kế cơ sở dữ liệu | ✓ | ✓ | ✓ |
